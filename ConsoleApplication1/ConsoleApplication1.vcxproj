@@ -142,6 +142,7 @@
     <ClCompile Include="..\..\2학기\응용 컴퓨터 프로그래밍\8-10장 과제\8-6.c" />
     <ClCompile Include="..\..\2학기\응용 컴퓨터 프로그래밍\8-10장 과제\Project1\Project1\8-11.c" />
     <ClCompile Include="..\..\2학기\응용 컴퓨터 프로그래밍\8-10장 과제\Project1\Project1\8-8.c" />
+    <ClCompile Include="9-12.c" />
     <ClCompile Include="9-4.c" />
     <ClCompile Include="9-5.c" />
   </ItemGroup>
