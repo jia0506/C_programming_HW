@@ -13,12 +13,24 @@
       <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
       <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
     </Filter>
+    <Filter Include="소스 파일\NewFilter1">
+      <UniqueIdentifier>{ddb5f784-339b-4628-bf61-dc56ae4ae786}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="ConsoleApplication1.c">
+    <ClCompile Include="9-4.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="9-4.c">
+    <ClCompile Include="9-5.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\2학기\응용 컴퓨터 프로그래밍\8-10장 과제\8-6.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\2학기\응용 컴퓨터 프로그래밍\8-10장 과제\Project1\Project1\8-8.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\2학기\응용 컴퓨터 프로그래밍\8-10장 과제\Project1\Project1\8-11.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
   </ItemGroup>
